@@ -1,3 +1,5 @@
+[comment]: <> (git show -s --format='%h %s')
+
 # Welcome to by GH Page.
 <details>
   <summary>Click to expand!</summary>
