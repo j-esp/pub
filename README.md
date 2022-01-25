@@ -57,24 +57,3 @@
   ```
 
   </blockquote></details>
-
-  <details><summary> boot </summary><blockquote>
-
-  x
-  y
-  z
-  </blockquote></details>
-
-  <details>
-  <summary> dev </summary>
-  <blockquote>
-
-  p
-  q
-  r
-  </blockquote>
-  </details>
-
-  </blockquote>
-
-</details>
