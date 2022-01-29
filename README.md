@@ -22,7 +22,6 @@
 
 <details>
   <summary> root </summary>
-
   <blockquote>
 
   <details>
@@ -49,11 +48,4 @@
   b
   c
   </blockquote></details>
-
-  ```sh
-  file1
-  file2
-  file3
-  ```
-
-  </blockquote></details>
+</blockquote></details>
