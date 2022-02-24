@@ -1,13 +1,10 @@
-[comment]: <> (git show -s --format='%h %s')
-
 # Praise Reports
 
 <details>
   <summary> In need of a job to move to ATL GA. </summary>
-    <details>
+      - On MM/DD/YYYY etc, etc.  
       - On MM/DD/YYYY etc, etc.
-      - On MM/DD/YYYY etc, etc.
-    </details>
+</details>
 
 <!-- <details>
   <summary> In need of a job to move to ATL GA. </summary>
