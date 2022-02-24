@@ -2,8 +2,8 @@
 
 <details>
   <summary> In need of a job to move to ATL GA. </summary>
-      - On MM/DD/YYYY etc, etc.  
-      - On MM/DD/YYYY etc, etc.
+      * On MM/DD/YYYY etc, etc.  
+      * On MM/DD/YYYY etc, etc.
 </details>
 
 <!-- <details>
