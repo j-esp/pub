@@ -3,12 +3,19 @@
 # Praise Reports
 
 <details>
-  <summary> In need of a job. </summary>
+  <summary> In need of a job to move to ATL GA. </summary>
+    <details>
+      - On MM/DD/YYYY etc, etc.
+      - On MM/DD/YYYY etc, etc.
+    </details>
+
+<!-- <details>
+  <summary> In need of a job to move to ATL GA. </summary>
   <blockquote>
 
   <details>
 
-  <!-- <summary> bin </summary>
+  <summary> bin </summary>
   
   <blockquote>
 
@@ -29,8 +36,8 @@
   a
   b
   c
-  </blockquote></details> -->
+  </blockquote></details>
 
 
 </blockquote>
-</details>
+</details> -->
