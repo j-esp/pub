@@ -2,11 +2,11 @@
 
 <details>
   <summary> In need of a job to move to ATL GA. </summary>
-      * MM/DD/YYYY: An employer casually mentioned that they have an ATL office and that it may be an option.  
+      - MM/DD/YYYY: An employer casually mentioned that they have an ATL office and that it may be an option.  
 
-      * MM/DD/YYYY: I decided to....
-      
-      * MM/DD/YYYY: Espaillats decided to move to ATL GA.  
+      - MM/DD/YYYY: I decided to....
+
+      - MM/DD/YYYY: Espaillats decided to move to ATL GA.  
 </details>
 
 <!-- <details>
