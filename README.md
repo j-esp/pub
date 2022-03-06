@@ -8,34 +8,92 @@
 # Work Notes
 
 <details>
-  <summary> Initial Access. </summary>
+  <summary> Case 000. </summary>
   <blockquote>
 
-  <details>
+  <details><summary> Reconnaissance </summary>
+    <blockquote>
+    < placeholder>
+    </blockquote>
+    </details>
 
-  <summary> bin </summary>
-  
-  <blockquote>
+  <details><summary> Resource Development </summary>
+    <blockquote>
+    < placeholder>
+    </blockquote>
+    </details>
 
-  <details><summary> nest1 </summary>
-  <blockquote>
+  <details><summary> Initial Access </summary>
+    <blockquote>
+    < placeholder>
+    </blockquote>
+    </details>
 
-  ```sh
-  a
-  b
-  c
-  ```
-  
-  </blockquote>
-  </details>
-  
-  <details><summary> nest2 </summary><blockquote>
+  <details><summary> Execution </summary>
+    <blockquote>
+    < placeholder>
+    </blockquote>
+    </details>
 
-  a
-  b
-  c
-  </blockquote></details>
+  <details><summary> Persistence </summary>
+    <blockquote>
+    < placeholder>
+    </blockquote>
+    </details>
 
+  <details><summary> Privilege Escalation </summary>
+    <blockquote>
+    < placeholder>
+    </blockquote>
+    </details>
+
+  <details><summary> Defense Evasion </summary>
+    <blockquote>
+    < placeholder>
+    </blockquote>
+    </details>
+
+  <details><summary> Credential Access </summary>
+    <blockquote>
+    < placeholder>
+    </blockquote>
+    </details>
+
+  <details><summary> Discovery </summary>
+    <blockquote>
+    < placeholder>
+    </blockquote>
+    </details>
+
+  <details><summary> Lateral Movement </summary>
+    <blockquote>
+    < placeholder>
+    </blockquote>
+    </details>
+
+  <details><summary> Collection </summary>
+    <blockquote>
+    < placeholder>
+    </blockquote>
+    </details>
+
+  <details><summary> Command and Controls </summary>
+    <blockquote>
+    < placeholder>
+    </blockquote>
+    </details>
+
+  <details><summary> Exfiltration </summary>
+    <blockquote>
+    < placeholder>
+    </blockquote>
+    </details>
+
+  <details><summary> Impact </summary>
+    <blockquote>
+    < placeholder>
+    </blockquote>
+    </details>
 
 </blockquote>
 </details>
