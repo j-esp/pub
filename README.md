@@ -8,7 +8,7 @@
 # Work Notes
 
 <details>
-  <summary> Case 000. </summary>
+  <summary> Case 000: placeholder </summary>
   <blockquote>
 
   <details><summary> Reconnaissance </summary>
