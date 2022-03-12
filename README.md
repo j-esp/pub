@@ -1,7 +1,7 @@
-# My Faith
+# Gratitude
 
 <details>
-  <summary> I think I feel like I have a spirit. </summary>
+  <summary> I thank God for a rewarding career, good friends made along the way, lessons learned and for His provision. </summary>
     < placeholder >
 </details>
 
@@ -12,7 +12,9 @@
 
   <details><summary> Reconnaissance </summary>
     <blockquote>
-    < placeholder>
+    - < placeholder>
+    - < placeholder>
+    - < placeholder>
     </blockquote>
     </details>
 
