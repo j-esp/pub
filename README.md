@@ -15,8 +15,12 @@
   <details><summary> Reconnaissance </summary>
     <blockquote>
     - < placeholder>  
+    </blockquote>
+    <blockquote>
     - < placeholder>  
-    - < placeholder>
+    </blockquote>
+    <blockquote>
+    - < placeholder>  
     </blockquote>
     </details>
 
