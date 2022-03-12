@@ -2,7 +2,9 @@
 
 <details>
   <summary> I thank God for a rewarding career, good friends made along the way, lessons learned and for His provision. </summary>
-    < placeholder >
+    - < placeholder>  
+    - < placeholder>  
+    - < placeholder>
 </details>
 
 # Work Notes
@@ -12,8 +14,8 @@
 
   <details><summary> Reconnaissance </summary>
     <blockquote>
-    - < placeholder>
-    - < placeholder>
+    - < placeholder>  
+    - < placeholder>  
     - < placeholder>
     </blockquote>
     </details>
