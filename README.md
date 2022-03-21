@@ -12,7 +12,19 @@
 <details><summary> Governance Risk and Compliance </summary>
   <blockquote>
   
-  <details><summary> Preparation </summary>
+  <details><summary> Documentation </summary>
+    <blockquote>
+    - < placeholder>  
+    </blockquote>
+    <blockquote>
+    - < placeholder>  
+    </blockquote>
+    <blockquote>
+    - < placeholder>  
+    </blockquote>
+    </details>
+
+  <details><summary> Audits </summary>
     <blockquote>
     - < placeholder>  
     </blockquote>
@@ -69,8 +81,8 @@
   </blockquote>
 </details>
 
-<details><summary> US Army Signal Warrant Officer </summary>
-Navigate to the below CAC protected location to view some ARNG lessons learned from my time as a Signal Corps Soldier in the ARNG.
+<details><summary> US Army IT/Cyber Non-Commissioned Officer and Warrant Officer </summary>
+Navigate to the below CAC protected location to view some military lessons learned from my time as a Soldier in the US Army.
 <blockquote>https://armyeitaas-my.sharepoint-mil.us/:w:/g/personal/jesse_a_espaillat_mil_army_mil/ESFPPONwERxOkJyG1J1b0GABQTeLhSTPt2GPPhx1WYn0xQ?e=8l7caq) to access personal lessons learned content.</blockquote>
 </details>
 
