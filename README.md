@@ -65,6 +65,7 @@
         <blockquote>
           < placeholder>
         </blockquote>
+      </details>
       <details><summary> Initial Access </summary>
         <blockquote>
           < placeholder>
@@ -79,6 +80,7 @@
         <blockquote>
           < placeholder>
         </blockquote>
+      </details>
       <details><summary> Privilege Escalation </summary>
         <blockquote>
           < placeholder>
@@ -93,6 +95,7 @@
         <blockquote>
           < placeholder>
         </blockquote>
+      </details>
       <details><summary> Discovery </summary>
         <blockquote>
           < placeholder>
@@ -107,6 +110,7 @@
         <blockquote>
           < placeholder>
         </blockquote>
+      </details>
       <details><summary> Command and Control </summary>
         <blockquote>
           < placeholder>
@@ -116,6 +120,7 @@
         <blockquote>
           < placeholder>
         </blockquote>
+      </details>
       <details><summary> Impact </summary>
         <blockquote>
           < placeholder>
