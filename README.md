@@ -7,6 +7,79 @@
     - < placeholder>
 </details>
 
+# Incident Response Notes
+
+  <details><summary> Reconnaissance Examples </summary>
+    <blockquote>
+      < placeholder>
+    </blockquote>
+  </details>
+  <details><summary> Resource Development </summary>
+    <blockquote>
+      < placeholder>
+    </blockquote>
+  </details>
+  <details><summary> Initial Access </summary>
+    <blockquote>
+      < placeholder>
+    </blockquote>
+  </details>
+  <details><summary> Execution </summary>
+    <blockquote>
+      < placeholder>
+    </blockquote>
+  </details>
+  <details><summary> Persistence </summary>
+    <blockquote>
+      < placeholder>
+    </blockquote>
+  </details>
+  <details><summary> Privilege Escalation </summary>
+    <blockquote>
+      < placeholder>
+    </blockquote>
+  </details>
+  <details><summary> Defense Evasion </summary>
+    <blockquote>
+      < placeholder>
+    </blockquote>
+  </details>
+  <details><summary> Credential Access </summary>
+    <blockquote>
+      < placeholder>
+    </blockquote>
+  </details>
+  <details><summary> Discovery </summary>
+    <blockquote>
+      < placeholder>
+    </blockquote>
+  </details>
+  <details><summary> Lateral Movement </summary>
+    <blockquote>
+      < placeholder>
+    </blockquote>
+  </details>
+  <details><summary> Collection </summary>
+    <blockquote>
+      < placeholder>
+    </blockquote>
+  </details>
+  <details><summary> Command and Control </summary>
+    <blockquote>
+      < placeholder>
+    </blockquote>
+  </details>
+  <details><summary> Exfiltration </summary>
+    <blockquote>
+      < placeholder>
+    </blockquote>
+  </details>
+  <details><summary> Impact </summary>
+    <blockquote>
+      < placeholder>
+    </blockquote>
+  </details>
+
 # Lessons Learned
 
 <details><summary> Governance Risk and Compliance </summary>
@@ -56,76 +129,7 @@
 
   <details><summary> Identification </summary>
     <blockquote>
-      <details><summary> Reconnaissance Examples </summary>
-        <blockquote>
-          < placeholder>
-        </blockquote>
-      </details>
-      <details><summary> Resource Development </summary>
-        <blockquote>
-          < placeholder>
-        </blockquote>
-      </details>
-      <details><summary> Initial Access </summary>
-        <blockquote>
-          < placeholder>
-        </blockquote>
-      </details>
-      <details><summary> Execution </summary>
-        <blockquote>
-          < placeholder>
-        </blockquote>
-      </details>
-      <details><summary> Persistence </summary>
-        <blockquote>
-          < placeholder>
-        </blockquote>
-      </details>
-      <details><summary> Privilege Escalation </summary>
-        <blockquote>
-          < placeholder>
-        </blockquote>
-      </details>
-      <details><summary> Defense Evasion </summary>
-        <blockquote>
-          < placeholder>
-        </blockquote>
-      </details>
-      <details><summary> Credential Access </summary>
-        <blockquote>
-          < placeholder>
-        </blockquote>
-      </details>
-      <details><summary> Discovery </summary>
-        <blockquote>
-          < placeholder>
-        </blockquote>
-      </details>
-      <details><summary> Lateral Movement </summary>
-        <blockquote>
-          < placeholder>
-        </blockquote>
-      </details>
-      <details><summary> Collection </summary>
-        <blockquote>
-          < placeholder>
-        </blockquote>
-      </details>
-      <details><summary> Command and Control </summary>
-        <blockquote>
-          < placeholder>
-        </blockquote>
-      </details>
-      <details><summary> Exfiltration </summary>
-        <blockquote>
-          < placeholder>
-        </blockquote>
-      </details>
-      <details><summary> Impact </summary>
-        <blockquote>
-          < placeholder>
-        </blockquote>
-      </details>
+    - < placeholder>  
     </blockquote>
     </details>
 
@@ -155,3 +159,5 @@ Navigate to the below CAC protected location to view some military lessons learn
 <blockquote>https://armyeitaas-my.sharepoint-mil.us/:w:/g/personal/jesse_a_espaillat_mil_army_mil/ESFPPONwERxOkJyG1J1b0GABQTeLhSTPt2GPPhx1WYn0xQ?e=8l7caq) to access personal lessons learned content.</blockquote>
 </details>
 
+# Contact
+jesse@cyscale.io
