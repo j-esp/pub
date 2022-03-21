@@ -7,12 +7,12 @@
     - < placeholder>
 </details>
 
-# Work Notes
+# Lessons Learned
 
-<details><summary> Case 000: placeholder </summary>
+<details><summary> Governance Risk and Compliance </summary>
   <blockquote>
-
-  <details><summary> Reconnaissance </summary>
+  
+  <details><summary> Preparation </summary>
     <blockquote>
     - < placeholder>  
     </blockquote>
@@ -21,93 +21,55 @@
     </blockquote>
     <blockquote>
     - < placeholder>  
-    </blockquote>
-    </details>
-
-  <details><summary> Resource Development </summary>
-    <blockquote>
-    < placeholder>
-    </blockquote>
-    </details>
-
-  <details><summary> Initial Access </summary>
-    <blockquote>
-    < placeholder>
-    </blockquote>
-    </details>
-
-  <details><summary> Execution </summary>
-    <blockquote>
-    < placeholder>
-    </blockquote>
-    </details>
-
-  <details><summary> Persistence </summary>
-    <blockquote>
-    < placeholder>
-    </blockquote>
-    </details>
-
-  <details><summary> Privilege Escalation </summary>
-    <blockquote>
-    < placeholder>
-    </blockquote>
-    </details>
-
-  <details><summary> Defense Evasion </summary>
-    <blockquote>
-    < placeholder>
-    </blockquote>
-    </details>
-
-  <details><summary> Credential Access </summary>
-    <blockquote>
-    < placeholder>
-    </blockquote>
-    </details>
-
-  <details><summary> Discovery </summary>
-    <blockquote>
-    < placeholder>
-    </blockquote>
-    </details>
-
-  <details><summary> Lateral Movement </summary>
-    <blockquote>
-    < placeholder>
-    </blockquote>
-    </details>
-
-  <details><summary> Collection </summary>
-    <blockquote>
-    < placeholder>
-    </blockquote>
-    </details>
-
-  <details><summary> Command and Controls </summary>
-    <blockquote>
-    < placeholder>
-    </blockquote>
-    </details>
-
-  <details><summary> Exfiltration </summary>
-    <blockquote>
-    < placeholder>
-    </blockquote>
-    </details>
-
-  <details><summary> Impact </summary>
-    <blockquote>
-    < placeholder>
     </blockquote>
     </details>
 
   </blockquote>
 </details>
 
-# Lessons Learned
+<details><summary> Security Operations </summary>
+  <blockquote>
+  
+  <details><summary> Preparation </summary>
+    <blockquote>
+    - < placeholder>  
+    </blockquote>
+    <blockquote>
+    - < placeholder>  
+    </blockquote>
+    <blockquote>
+    - < placeholder>  
+    </blockquote>
+    </details>
 
-<details><summary> ARNG Signal Leader </summary>
+  <details><summary> Identification </summary>
+    <blockquote>
+    < placeholder>
+    </blockquote>
+    </details>
+
+  <details><summary> Containment </summary>
+    <blockquote>
+    < placeholder>
+    </blockquote>
+    </details>
+
+  <details><summary> Eradication </summary>
+    <blockquote>
+    < placeholder>
+    </blockquote>
+    </details>
+
+  <details><summary> Recovery </summary>
+    <blockquote>
+    < placeholder>
+    </blockquote>
+    </details>    
+
+  </blockquote>
+</details>
+
+<details><summary> US Army Signal Warrant Officer </summary>
 Navigate to the below CAC protected location to view some ARNG lessons learned from my time as a Signal Corps Soldier in the ARNG.
 <blockquote>https://armyeitaas-my.sharepoint-mil.us/:w:/g/personal/jesse_a_espaillat_mil_army_mil/ESFPPONwERxOkJyG1J1b0GABQTeLhSTPt2GPPhx1WYn0xQ?e=8l7caq) to access personal lessons learned content.</blockquote>
 </details>
