@@ -1,11 +1,5 @@
 # Gratitude
-
-<details>
-  <summary> I thank God for a rewarding career, good friends made along the way, lessons learned and for His provision. </summary>
-    - < placeholder>  
-    - < placeholder>  
-    - < placeholder>
-</details>
+  I thank God for a rewarding career, good friends made along the way, lessons learned and for His provision.
 
 # Incident Response Notes
 
