@@ -13,6 +13,8 @@
   <blockquote>
   - When operators (AKA analysts) are separated from the use case developers (aka threat detection) the cyber operations budget is misused to combat busy work and inefficiencies.
   </blockquote>
+  <blockquote>
+  - Make sure only incidents are making their way into the Case Management platform. If low severity events and alerts are making their way in there, figure that out before spending money on more resources.
   </details>
 
 <details><summary> Career Management </summary>
